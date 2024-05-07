@@ -1,0 +1,118 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background: color #045fb4;
+    display: flex;
+    justify-content: flex-start;
+    width: 1000 px;
+    height: 200 px;
+}
+
+.img{
+    width: 150px;
+    height: 30px;
+}
+
+nav{
+    color: #2e64fe;
+    font-weight: 1000;
+    border: #2e64fe solid 3px;
+    text-align:center;
+}
+
+.flex{
+    display: flex;
+   
+}
+hr{
+    background-color: #2e64fe;
+    height: 3px;
+    border: 0;
+}
+
+
+
+input{
+    background: color #01df01;
+    color: white;
+}
+.hola{
+    background-image: url(Img_MaquetadoEmpresa/Imagen1.jpg);
+    height: 450px;
+    width: 100%;
+    color: #08298a;
+    border: 6px #2e64fe solid;
+    border-radius: 3%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    font-size: 25px;
+}
+h2{
+    font-size: 20px;
+}
+section{
+    padding-top: 5%;
+    padding-right: 60%;
+    text-align: center;
+}
+.a{
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.hola2{
+    text-align:center;
+}
+
+.img1{
+    height: 40px;
+    width: 40px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    padding-left: 30px;
+}
+
+.img2{
+    height: 40px;
+    width: 40px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    padding-left: 30px;
+    
+}
+
+.img3{
+    height: 40px;
+    width: 40px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    padding-left: 30px;
+}
+
+.img4{
+    height: 40px;
+    width: 40px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    padding-left: 30px;
+}
+
+
+p{
+    color: #08298a;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+
+}
+
+
+footer{
+    color: rgb(219, 219, 219);
+    font-family:Arial, Helvetica, sans-serif;
+}

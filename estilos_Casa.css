@@ -1,0 +1,21 @@
+body{
+    background-image: url(Img_MaquetadoEmpresa/img.Sams2.jpg);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: #08298a;
+}
+h2{
+    font-size: 50px;
+    color: #08298a;
+}
+h3{
+    font-size: 50px;
+    color: #08298a;
+}
+footer{
+    background-color: #08298a;
+    color: white;
+}

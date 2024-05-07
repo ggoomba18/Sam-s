@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #051d7e;
+}
+.flex{
+    display: flex;
+}
+.Verano{
+    background-image: url(Img_MaquetadoEmpresa/img.Verano.jpg);
+    height: 640px;
+    width: 860px;
+    text-align: center;
+}
+.Bloqueador{
+    height: 320px;
+    width: 240px;
+}
+.azul{
+    background-color: #03124f;
+    width:480px;
+    color: #38cd38;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.blanco{
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+h1{
+    color: white;
+    font-size: 55px;
+}
+h2{
+    color: orange;
+    font-size: 55px;
+}
+p{
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
